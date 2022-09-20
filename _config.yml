@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jeongbae Choi / Site Title"
+title                    : "Jeongbae Choi"
 title_separator          : "-"
 name                     : &name "Jeongbae Choi"
 description              : &description "Ph.D. Student at Syracuse University iSchool (School of Information Studies)"
