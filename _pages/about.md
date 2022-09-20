@@ -3,9 +3,6 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am a Ph.D. student at [Syracuse University iSchool (School of Information Studies)]([https://ischool.syr.edu/jeongbae-choi/).
