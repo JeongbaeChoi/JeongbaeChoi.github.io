@@ -13,4 +13,4 @@ My resaerch has focused on philosophy of information, information literacy, and 
 
 Contact
 ------
-E-mail: [jechoi@syr.edu](mailto:jechoi@syr.edu]
+E-mail: [jechoi@syr.edu](mailto:jechoi@syr.edu)
