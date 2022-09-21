@@ -16,10 +16,23 @@ Education
 * B.A. in Department of Sociology, College of Social Science, Seoul National University (February 2012)
 * B.L.I.S in Library and Information Science, National Institute for Lifelong Education (South Korea), (February 2020)
 
+Academic experience
+======
+* Graduate Research Assistant (August 2021-current)
+  * Syracuse University
+  * Research Project Management
+  * Professional Communication Support
+  * Literature Review
+  * Qualitative Data Analysis
+
+* Graduate Teaching Assistant (March 2013-June 2013)
+  * Seoul National University
+  * Course Evaluation
+ 
 Professional experience
 ======
 * Social Sciences Librarian (January 2015-June 2017)
-  * Sungkyunkwan University (SKKU)
+  * Sungkyunkwan University
   * Graduate Research Suuport
   * Undergraduate Learning Support
   * Collection Development
@@ -30,17 +43,14 @@ Professional experience
   * Library Marketing
 
 * University-Industry Cooperation Staff (July 2017-March 2018)
-  * Sungkyunkwan University (SKKU)
+  * Sungkyunkwan University
   * University-Industry Cooperation Strategy
   * International Patent and Intellectual Property Management
   * Technology Transfer Performance Management
   * Local Industrial Workforce Training Program Management
   
-Publications
+[Publications](https://jeongbaechoi.github.io/publications/)
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Skills
 ======
