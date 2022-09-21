@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [Syracuse University iSchool](https://ischool.syr.edu/jeongbae-choi/), or School of Information Studies.
+I am a Ph.D. student at [Syracuse University iSchool](https://ischool.syr.edu/jeongbae-choi/) (School of Information Studies).
 
 My research has focused on (a) philosophy of information, (b) information literacy, (c) future librarianship and library education, and (d) information policy and smart cities. 
 
