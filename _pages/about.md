@@ -10,12 +10,12 @@ redirect_from:
 
 I am a Ph.D. student at [Syracuse University iSchool](https://ischool.syr.edu/jeongbae-choi/) (School of Information Studies).
 
-My research has focused on (a) philosophy of information, (b) information literacy and library education, (c) information pathologies, and (d) information policy and smart cities. 
+My research has focused on (a) philosophy of information, (b) information literacy and library education, (c) information pathologies, and (d) information policy and smart cities.
 
-I have particularly worked on applying scientific realism (SR) and critical realism (CR) into information science and library and information science (LIS). 
+My particular area of interest involves applying scientific realism (SR) and critical realism (CR) to information science and library and information science (LIS).
 
-I have [published](https://jeongbaechoi.github.io/publications/) in information science, library and information science (LIS), and information systems (IS) conferences and journals.
-
+I have presented at conferences within the fields of information science, library and information science (LIS), and information systems (IS).
+(See more at my [Publications page](https://jeongbaechoi.github.io/publications/).)
 
 Contact
 ------
