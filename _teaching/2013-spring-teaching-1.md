@@ -8,8 +8,6 @@ date: 2013-03-01
 location: "Seoul, South Korea"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Role: Graduate Teaching Assistant 
 
-Graduate Teaching Assistant 
-======
 Tasks: Course Evaluation
