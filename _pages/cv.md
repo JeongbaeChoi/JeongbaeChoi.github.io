@@ -59,6 +59,7 @@ Skills
 * Knowledgeable in MARC 21 and DDC 23
 * Familiar with intellectual properties, resource preservation and archiving, and open access
 * Knowledgeable in SPSS and social survey techniques
+* Familiar with Python
   
 Affiliations
 ======
