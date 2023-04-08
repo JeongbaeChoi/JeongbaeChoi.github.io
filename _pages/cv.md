@@ -63,6 +63,7 @@ Skills
   
 Affiliations
 ======
+* American Library Association (ALA) (2022‒present)
 * Association for Library and Information Science Education (ALISE) (2022‒present)
 * Korean Library Association (KLA) (2019‒current)
 * Korean Sociological Academy (KSA) (2018‒2022)
