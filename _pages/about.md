@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  
 <br>
 
 [CV download](https://jeongbaechoi.github.io/files/CV-Jeongbae_Choi-2024-09-15.pdf)
