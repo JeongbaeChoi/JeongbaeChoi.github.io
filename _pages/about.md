@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Jeongbae Choi is a PhD candidate at the School of Information Studies, [Syracuse University](https://ischool.syr.edu/jeongbae-choi/).
+[CV download](https://github.com/JeongbaeChoi/JeongbaeChoi.github.io/blob/master/files/CV-Jeongbae_Choi-2024-09-15.pdf)
+
+**Jeongbae Choi** is a PhD candidate at the School of Information Studies, [Syracuse University](https://ischool.syr.edu/jeongbae-choi/).
 
 I advocate for a comprehensive and in-depth examination of the philosophical and meta-theoretical foundations of information science, encompassing the philosophy of information, science, technology, and the integration of educational and practice theories. This approach aims to propel the field forward.
 
