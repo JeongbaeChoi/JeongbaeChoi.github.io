@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[CV download](https://jeongbaechoi.github.io/files/CV-Jeongbae_Choi-2026-01-31.pdf)
+[CV download](https://jeongbaechoi.github.io/files/CV-Jeongbae_Choi-2026-06-03.pdf)
 
 
 **Jeongbae Choi** is a Ph.D. at the School of Information Studies, [Syracuse University](https://ischool.syr.edu/jeongbae-choi/).
